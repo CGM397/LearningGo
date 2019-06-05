@@ -1,0 +1,2 @@
+# LearningGo
+Start learning Go.
